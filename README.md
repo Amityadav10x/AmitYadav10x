@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="center">A passionate Aspiring Data Analyst From India</h3>
+<h3 align="center">A passionate Aspiring Data Analyst</h3>
 
 <img align = "right" alt="coding" width="400" src="https://camo.githubusercontent.com/5b1d2e901546f5465aacfb5d19253ae0822909b754dac4b8b2d5632374125c72/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science & Machine Learning**
+- 🌱 I’m currently learning **Data Analysis & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://amityadav10x.github.io/Portfolio_Website/index.html)
 
