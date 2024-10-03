@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="center">A passionate Aspiring Data Analyst</h3>
+<h3 align="center">A Passionate Aspiring Data Analyst</h3>
 
 <img align = "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/98509698/205488812-96c222ed-cbb2-4c1d-b6c2-6bdc1a42e3da.gif">
 
