@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
 <h3 align="center">A passionate Aspiring Data Analyst</h3>
 
-<img align = "right" alt="coding" width="400" src="https://camo.githubusercontent.com/5b1d2e901546f5465aacfb5d19253ae0822909b754dac4b8b2d5632374125c72/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966">
+<img align = "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/98509698/205488812-96c222ed-cbb2-4c1d-b6c2-6bdc1a42e3da.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amityadav10x&label=Profile%20views&color=0e75b6&style=flat" alt="amityadav10x" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis & Machine Learning**
+- 🌱 I’m currently learning **Data Analysis & Business Analysis**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://amityadav10x.github.io/Portfolio_Website/index.html)
 
@@ -24,8 +24,8 @@
   
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="Power BI Logo" width="40" height="40">
-    </a>
+<img src="https://learn.microsoft.com/es-es/training/achievements/get-started-power-bi.svg" alt="PowerBI Logo" width="40" height="40">
+</a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" alt="Tableau" width="40" height="40"/>
 </a>
