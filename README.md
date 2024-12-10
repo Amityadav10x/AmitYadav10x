@@ -92,4 +92,4 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amityadav10x&show_icons=true&locale=en&layout=compact" alt="amityadav10x" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amityadav10x&hide_border=true" alt="amityadav10x" width="500" height="350" /></p>
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Amityadav10x&theme=highcontrast" alt="GitHub Streak" /></a>
