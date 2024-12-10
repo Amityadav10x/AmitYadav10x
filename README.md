@@ -24,16 +24,17 @@
 <h3 align="left">💻 My Skills:</h3>
 <ul>
   <li>Data Visualization Tools: Power BI, Tableau</li>
-  <li>Programming Languages: Python, SQL,<li>
+  <li>Programming Languages: Python, SQL<li>
   <li>Data Analysis Libraries: Pandas, Numpy, Matplotlib, Seaborn</li>
   <li>Databases: MySQL, PostgreSQL, SSMS</li>
+  <li>Cloud: Microsoft Azure
   <li>Spreadsheets: Microsoft Excel</li>
 </ul>
 
 ---
 
 
-<h3 align="left">🎯 Current Learning:</h3>
+<h3 align="left">🎯 Currently Learning:</h3>
 <ul>
   <li>Machine Learning with Python</li>
   <li>Advanced SQL for Data Analytics</li>
