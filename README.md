@@ -21,14 +21,31 @@
 
 ---
 
-<h3 align="left">💻 My Skills:</h3>
+<h3 align="left">💻 Technical Skills For Data Analysis:</h3>
 <ul>
-  <li>Data Visualization Tools: Power BI, Tableau</li>
-  <li>Programming Languages: Python, SQL<li>
-  <li>Data Analysis Libraries: Pandas, Numpy, Matplotlib, Seaborn</li>
-  <li>Databases: MySQL, PostgreSQL, SSMS</li>
-  <li>Cloud: Microsoft Azure
-  <li>Spreadsheets: Microsoft Excel</li>
+  <li>**Data Visualization Tools**: Power BI, Tableau</li>
+  
+  <li>**Programming Languages**: Python, SQL, C</li>
+  <li>**Data Analysis Libraries**: Pandas, NumPy, Seaborn, Matplotlib</li>
+  <li>**Databases**: MySQL, PostgreSQL, Microsft SQL Server Management Studio</li>
+  <li>**Spreadsheets**: Microsoft Excel (Advanced)</li>
+  <li>**Machine Learning**: Supervised and Unsupervised Learning, Model Evaluation</li>
+  <li>**Data Management**: ETL (Extract, Transform, Load) Processes, Data Warehousing</li>
+  <li>**Data Analysis Techniques**: Data Cleaning, Data Preprocessing, Data Exploration, Data Modeling</li>
+</ul>
+
+---
+
+<h3 align="left">🧠 Soft Skills For Data anlysis:</h3>
+<ul>
+  <li>**Problem-Solving**: Ability to break down complex problems and find effective solutions.</li>
+  <li>**Communication**: Ability to translate complex data insights into understandable stories for non-technical stakeholders.</li>
+  <li>**Collaboration**: Experienced in working with cross-functional teams to gather and analyze data.</li>
+  <li>**Critical Thinking**: Assessing data from multiple perspectives to ensure accurate conclusions.</li>
+  <li>**Attention to Detail**: Ensuring accuracy and quality in data analysis and visualizations.</li>
+  <li>**Adaptability**: Comfortable with learning new tools, techniques, and programming languages as needed.</li>
+  <li>**Time Management**: Prioritizing tasks effectively to meet project deadlines without compromising quality.</li>
+  <li>**Leadership**: Abibilty to lead data-driven projects and collaborating effectively with team members to achieve goals.</li>
 </ul>
 
 ---
