@@ -50,9 +50,9 @@
   <a href="https://www.instagram.com/yaduvanshi_amit" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amit Yadav Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.kaggle.com/amityadav10x" target="blank">
+<!--   <a href="https://www.kaggle.com/amityadav10x" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Kaggle_logo.png" alt="Amit Yadav Kaggle" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
