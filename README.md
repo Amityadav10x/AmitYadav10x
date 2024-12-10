@@ -23,32 +23,18 @@
 
 <h3 align="left">💻 Technical Skills For Data Analysis:</h3>
 <ul>
-  <li>**Data Visualization Tools**: Power BI, Tableau</li>
-  
-  <li>**Programming Languages**: Python, SQL, C</li>
-  <li>**Data Analysis Libraries**: Pandas, NumPy, Seaborn, Matplotlib</li>
-  <li>**Databases**: MySQL, PostgreSQL, Microsft SQL Server Management Studio</li>
-  <li>**Spreadsheets**: Microsoft Excel (Advanced)</li>
-  <li>**Machine Learning**: Supervised and Unsupervised Learning, Model Evaluation</li>
-  <li>**Data Management**: ETL (Extract, Transform, Load) Processes, Data Warehousing</li>
-  <li>**Data Analysis Techniques**: Data Cleaning, Data Preprocessing, Data Exploration, Data Modeling</li>
+  <li>Data Visualization Tools: Power BI, Tableau</li>
+  <li>Programming Languages: Python, SQL, C</li>
+  <li>Data Analysis Libraries: Pandas, NumPy, Seaborn, Matplotlib</li>
+  <li>Databases: MySQL, PostgreSQL, Microsft SQL Server Management Studio</li>
+  <li>Spreadsheets: Microsoft Excel (Advanced)</li>
+  <li>Machine Learning: Supervised and Unsupervised Learning, Model Evaluation</li>
+  <li>Data Management: ETL (Extract, Transform, Load) Processes, Data Warehousing</li>
+  <li>Data Analysis Techniques: Data Cleaning, Data Preprocessing, Data Exploration, Data Modeling</li>
 </ul>
 
 ---
 
-<h3 align="left">🧠 Soft Skills For Data anlysis:</h3>
-<ul>
-  <li>**Problem-Solving**: Ability to break down complex problems and find effective solutions.</li>
-  <li>**Communication**: Ability to translate complex data insights into understandable stories for non-technical stakeholders.</li>
-  <li>**Collaboration**: Experienced in working with cross-functional teams to gather and analyze data.</li>
-  <li>**Critical Thinking**: Assessing data from multiple perspectives to ensure accurate conclusions.</li>
-  <li>**Attention to Detail**: Ensuring accuracy and quality in data analysis and visualizations.</li>
-  <li>**Adaptability**: Comfortable with learning new tools, techniques, and programming languages as needed.</li>
-  <li>**Time Management**: Prioritizing tasks effectively to meet project deadlines without compromising quality.</li>
-  <li>**Leadership**: Abibilty to lead data-driven projects and collaborating effectively with team members to achieve goals.</li>
-</ul>
-
----
 
 
 <h3 align="left">🎯 Currently Learning:</h3>
@@ -106,4 +92,4 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amityadav10x&show_icons=true&locale=en&layout=compact" alt="amityadav10x" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amityadav10x&" alt="amityadav10x" width="500" height="350" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amityadav10x&hide_border=true" alt="amityadav10x" width="500" height="350" /></p>
