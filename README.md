@@ -90,6 +90,6 @@
 </p>
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amityadav10x&show_icons=true&locale=en&layout=compact" alt="amityadav10x" /></p>
+![Amityadav10x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amityadav10x&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Amityadav10x&theme=highcontrast" alt="GitHub Streak" /></a>
+
