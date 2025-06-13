@@ -1,48 +1,67 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="center">A Passionate Aspiring Data Analyst</h3>
+<h3 align="center">🚀 Data Automation Engineer | Turning Data Workflows into Smart Systems</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/98509698/205488812-96c222ed-cbb2-4c1d-b6c2-6bdc1a42e3da.gif">
+<img align="right" alt="automation" width="400" src="https://user-images.githubusercontent.com/98509698/205488812-96c222ed-cbb2-4c1d-b6c2-6bdc1a42e3da.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=amityadav10x&label=Profile%20views&color=0e75b6&style=flat" alt="amityadav10x" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amityadav10x&label=Profile%20views&color=0e75b6&style=flat" alt="amityadav10x" />
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
-</p>
+- 💡 **What I Do**:  
+  I engineer automated data workflows that connect platforms, extract insights, and power business decisions at scale.
 
-- 🌱 **I’m currently diving deeper into Data Analysis & Business Analysis**, building expertise in transforming data into actionable insights.
+- 🌱 **Currently Building**:  
+  Scalable data automation pipelines with tools like Airflow, n8n, dbt, BigQuery, and Power BI.
 
-- 👨‍💻 **Projects**:  
-  Explore my work in data analytics and visualization at my [Portfolio](https://amityadav10x.github.io/Portfolio_Website/index.html).
+- 🔍 **Focus Areas**:  
+  Data Pipeline Automation | Workflow Orchestration | API Integrations | Marketing Data Infrastructure | Business Intelligence
+
+- 👨‍💻 **Featured Work**:  
+  See my live dashboards and system designs on my [Portfolio](https://amityadav10x.github.io/Portfolio_Website/index.html)
 
 - ⚡ **Fun Fact**:  
-  I like to think of data as a puzzle that can be solved, and I’m always up for the challenge!
+  I don’t just automate tasks—I design systems that *think ahead* and *scale smoothly*.
 
 ---
 
-<h3 align="left">💻 Technical Skills For Data Analysis:</h3>
+<h3 align="left">🛠️ Tools & Technologies I Work With:</h3>
+
 <ul>
-  <li>Data Visualization Tools: Power BI, Tableau</li>
-  <li>Programming Languages: Python, SQL, C</li>
-  <li>Data Analysis Libraries: Pandas, NumPy, Seaborn, Matplotlib</li>
-  <li>Databases: MySQL, PostgreSQL, Microsft SQL Server Management Studio</li>
-  <li>Spreadsheets: Microsoft Excel (Advanced)</li>
-  <li>Machine Learning: Supervised and Unsupervised Learning, Model Evaluation</li>
-  <li>Data Management: ETL (Extract, Transform, Load) Processes, Data Warehousing</li>
-  <li>Data Analysis Techniques: Data Cleaning, Data Preprocessing, Data Exploration, Data Modeling</li>
+  <li>🧠 <strong>Languages & Scripting</strong>: Python, SQL, JavaScript, TypeScript, Bash, JSON</li>
+  <li>⚙️ <strong>Automation & ETL</strong>: Airflow, Prefect, n8n, dbt, Azure Data Factory, Airtable</li>
+  <li>📊 <strong>Visualization & Reporting</strong>: Power BI</li>
+  <li>🗄️ <strong>Processing & Storage</strong>: Apache Spark, Snowflake, Redshift, Google BigQuery</li>
+  <li>🚀 <strong>DevOps & Monitoring</strong>: Docker, CI/CD, Grafana, ELK Stack</li>
+  <li>🛠️ <strong>Other Tools</strong>: Git, GitHub, JSON, JavaScript, TypeScript</li>
+  <li>📈 <strong>Marketing Fundamentals</strong>: Market Research, RevOps, Content Strategy, Analytics, Content Engine Design</li>
 </ul>
 
 ---
 
+<h3 align="left">📚 Currently Exploring:</h3>
 
-
-<h3 align="left">🎯 Currently Learning:</h3>
 <ul>
-  <li>Machine Learning with Python</li>
-  <li>Advanced SQL for Data Analytics</li>
-  <li>Data Engineering Concepts</li>
+  <li>Advanced Orchestration with N8N</li>
+  <li>LLM Agents for Automated Decision-Making</li>
+  <li>Real-Time Analytics in Marketing Pipelines</li>
 </ul>
+
+---
+
+<h3 align="left">📬 Let's Connect:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amityadav10x" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:amityadav10x@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://amityadav10x.github.io/Portfolio_Website/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 
 ---
 
