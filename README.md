@@ -11,7 +11,7 @@
   I engineer automated data workflows that connect platforms, extract insights, and power business decisions at scale.
 
 - 🌱 **Currently Building**:  
-  Scalable data automation pipelines with tools like Airflow, n8n, dbt, BigQuery, and Power BI.
+  Scalable data automation pipelines with tools like n8n, Airtable, Make.com etc.
 
 - 🔍 **Focus Areas**:  
   Data Pipeline Automation | Workflow Orchestration | API Integrations | Marketing Data Infrastructure | Business Intelligence
