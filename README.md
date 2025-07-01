@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="center">🚀 Data Automation Engineer | Turning Data Workflows into Smart Systems</h3>
+<h3 align="center">🚀 AI Automation Engineer | Turning Data Workflows into Smart Systems</h3>
 
 <img align="right" alt="automation" width="400" src="https://user-images.githubusercontent.com/98509698/205488812-96c222ed-cbb2-4c1d-b6c2-6bdc1a42e3da.gif">
 
