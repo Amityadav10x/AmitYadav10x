@@ -27,14 +27,26 @@
 <h3 align="left">🛠️ Tools & Technologies I Work With:</h3>
 
 <ul>
-  <li>🧠 <strong>Languages & Scripting</strong>: Python, SQL, JavaScript, TypeScript, Bash, JSON</li>
-  <li>⚙️ <strong>Automation & ETL</strong>: Airflow, Prefect, n8n, dbt, Azure Data Factory, Airtable</li>
-  <li>📊 <strong>Visualization & Reporting</strong>: Power BI</li>
-  <li>🗄️ <strong>Processing & Storage</strong>: Apache Spark, Snowflake, Redshift, Google BigQuery</li>
-  <li>🚀 <strong>DevOps & Monitoring</strong>: Docker, CI/CD, Grafana, ELK Stack</li>
-  <li>🛠️ <strong>Other Tools</strong>: Git, GitHub, JSON, JavaScript, TypeScript</li>
-  <li>📈 <strong>Marketing Fundamentals</strong>: Market Research, RevOps, Content Strategy, Analytics, Content Engine Design</li>
+  <li class="d-flex"><span>Profile:</span><span>AI-Powered Data Analyst & Machine Learning Engineer</span></li>
+  <li class="d-flex"><span>Education:</span><span>Bachelor of Computer Applications (Data Science, IBM Collaboration)</span></li>
+  
+  <li class="d-flex"><span>Programming & Scripting:</span><span>Python, SQL, DAX, Power Query, JavaScript</span></li> 
+  
+  <li class="d-flex"><span>Data Analysis & Visualization:</span><span>Power BI, Tableau, Matplotlib, Seaborn</span></li>
+  
+  <li class="d-flex"><span>Machine Learning & Modeling:</span><span>scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook, Feature Engineering</span></li>
+  
+  <li class="d-flex"><span>Data Processing & Automation:</span><span>n8n, API Integration, ETL Workflows, Webhooks</span></li>
+  
+  <li class="d-flex"><span>AI & API Integration:</span><span>OpenAI API, Anthropic API (Claude), LangChain, Custom Workflow Automation</span></li>
+  
+  <li class="d-flex"><span>Storage & Databases:</span><span>SQL, BigQuery, Snowflake</span></li>
+
+  <li class="d-flex"><span>Business & Analytical Skills:</span><span>Data Cleaning, Data Modeling, Dashboard Reporting, Business Intelligence, Process Automation</span></li>
+
+  <li class="d-flex"><span>Additional Skills:</span><span>Git, GitHub, etc</span></li>
 </ul>
+
 
 ---
 
