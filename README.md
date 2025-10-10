@@ -7,14 +7,23 @@
   <img src="https://komarev.com/ghpvc/?username=amityadav10x&label=Profile%20views&color=0e75b6&style=flat" alt="amityadav10x" />
 </p>
 
+---
+
 - 💡 **What I Do**:  
-  I engineer automated data workflows that connect platforms, extract insights, and power business decisions at scale.
+  I analyze and visualize complex datasets to uncover actionable insights that guide business decisions.  
+  Using <strong>Power BI</strong>, <strong>Python</strong>, and <strong>SQL</strong>, I design interactive dashboards, build analytical models,  
+  and perform trend analysis to support data-driven growth.
+
+- ⚙️ **Automation Engineering**:  
+  I develop scalable automation systems that streamline data pipelines and API integrations.  
+  Using tools like <strong>n8n</strong>, <strong>Airtable</strong>, and <strong>Make.com</strong>, I connect applications,  
+  build ETL workflows, and automate decision-making processes for marketing and analytics teams.
 
 - 🌱 **Currently Building**:  
-  Scalable data automation pipelines with tools like n8n, Airtable, and Make.com.
+  Intelligent automation pipelines combining AI, data analytics, and workflow orchestration.
 
 - 🔍 **Focus Areas**:  
-  Data Pipeline Automation | Workflow Orchestration | API Integrations | Marketing Data Infrastructure | Business Intelligence
+  Data Analytics | Dashboard Design | Workflow Automation | API Integrations | Business Intelligence | Data Pipeline Orchestration
 
 - 👨‍💻 **Featured Work**:  
   See my live dashboards and system designs on my [Portfolio](https://amityadav10x.github.io/Portfolio_Website/index.html)
