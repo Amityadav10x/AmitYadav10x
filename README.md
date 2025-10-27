@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="center">🚀 AI Automation Engineer | Turning Data Workflows into Smart Systems</h3>
+<h3 align="center">🚀 AI Automation Engineer | System Architecture • n8n Automation • ML Integration</h3>
 
 <img align="right" alt="automation engineer working" width="400" src="https://user-images.githubusercontent.com/98509698/205488812-96c222ed-cbb2-4c1d-b6c2-6bdc1a42e3da.gif">
 
@@ -9,58 +9,69 @@
 
 ---
 
-- 💡 **What I Do**:  
-  I analyze and visualize complex datasets to uncover actionable insights that guide business decisions.  
-  Using <strong>Power BI</strong>, <strong>Python</strong>, and <strong>SQL</strong>, I design interactive dashboards, build analytical models,  
-  and perform trend analysis to support data-driven growth.
-
-- ⚙️ **Automation Engineering**:  
-  I develop scalable automation systems that streamline data pipelines and API integrations.  
-  Using tools like <strong>n8n</strong>, <strong>Airtable</strong>, and <strong>Make.com</strong>, I connect applications,  
-  build ETL workflows, and automate decision-making processes for marketing and analytics teams.
-
-- 🌱 **Currently Building**:  
-  Intelligent automation pipelines combining AI, data analytics, and workflow orchestration.
-
-- 🔍 **Focus Areas**:  
-  Data Analytics | Dashboard Design | Workflow Automation | API Integrations | Business Intelligence | Data Pipeline Orchestration
-
-- 👨‍💻 **Featured Work**:  
-  See my live dashboards and system designs on my [Portfolio](https://amityadav10x.github.io/Portfolio_Website/index.html)
-
-- ⚡ **Fun Fact**:  
-  I don’t just automate tasks — I design systems that *think ahead* and *scale smoothly*.
+### 🔵 **Current Role**
+- Architecting and documenting robust automation workflows, technical flowcharts, and project blueprints at Electric Octopus
+- Designing integration logic and system architecture for web and automation projects
+- Building production-ready n8n automation pipelines and orchestrations, enabling streamlined development for teams
 
 ---
 
-<h3 align="left">🛠️ Tools & Technologies I Work With:</h3>
-
-| **Category** | **Details** |
-|---------------|-------------|
-| **Profile** | AI-Powered Data Analyst & Machine Learning Engineer |
-| **Education** | Bachelor of Computer Applications (Data Science, IBM Collaboration) |
-| **Programming & Scripting** | Python, SQL, DAX, Power Query, JavaScript |
-| **Data Analysis & Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
-| **Machine Learning & Modeling** | scikit-learn, Pandas, NumPy, TensorFlow, Jupyter Notebook, Feature Engineering |
-| **Data Processing & Automation** | n8n, API Integration, ETL Workflows, Webhooks |
-| **AI & API Integration** | OpenAI API, Anthropic API (Claude), LangChain, Custom Workflow Automation |
-| **Storage & Databases** | SQL, BigQuery, Snowflake |
-| **Business & Analytical Skills** | Data Cleaning, Data Modeling, Dashboard Reporting, Business Intelligence, Process Automation |
-| **Additional Skills** | Git, GitHub, etc |
+### 🏁 **Project Experience**
+- Led the design and deployment of architectures for web apps, workflow automation, and app/system integrations
+- Built and maintained technical documentation that drives efficient project execution and reduces rework for developers
+- Developed frontend and full-stack solutions in the past (Replit, Cursor)
+- Automated cross-platform business processes and API-based workflows with n8n
 
 ---
 
-<h3 align="left">📚 Currently Exploring:</h3>
-
-<ul>
-  <li>Advanced Orchestration with n8n</li>
-  <li>LLM Agents for Automated Decision-Making</li>
-  <li>Real-Time Analytics in Marketing Pipelines</li>
-</ul>
+### 🌱 **Currently Upskilling**
+- **Machine Learning Integration:** Incorporating ML models into automation workflows and decision engines
+- **LLMs & GenAI:** Exploring GPT, Claude, and open-source LLMs for smart workflow automation and prompt engineering
+- **Advanced Workflow Orchestration:** Building modular, complex no/low-code automations with n8n and custom API integrations
+- **Developer Documentation:** Crafting best-in-class architecture diagrams and technical guides for fast team onboarding
 
 ---
 
-<h3 align="left">📬 Let's Connect:</h3>
+### 👀 **Focus Areas**
+System & Solution Architecture |
+Workflow Design & Orchestration |
+n8n Automation Engineering |
+API & App Integration |
+Machine Learning in Automation |
+LLM-powered Automation |
+Technical Documentation
+
+---
+
+### 👨‍💻 **Featured Work**
+Browse my architecture docs, workflow solutions, and ML-enabled projects at my  
+[Portfolio](https://amityadav10x.github.io/Portfolio_Website/index.html)
+
+---
+
+### 🛠️ **Tools & Technologies**
+
+| **Category**               | **Details**                                                    |
+|----------------------------|----------------------------------------------------------------|
+| **Core Profile**           | AI Automation Engineer, System Architect, n8n Workflow Expert  |
+| **Programming**            | Python, SQL, JavaScript                                        |
+| **Automation & Orchestration** | n8n, API Integration, ETL Workflows, Webhooks              |
+| **ML & Data Science**      | scikit-learn, Pandas, NumPy, Power BI, Jupyter, ML Pipelines   |
+| **LLMs & AI APIs**         | OpenAI API, Anthropic API, Prompt Engineering, LangChain       |
+| **Docs & Visualization**   | Markdown, architecture diagrams, Matplotlib, Seaborn           |
+| **Databases/Storage**      | SQL, BigQuery, Snowflake, Airtable                             |
+| **Other Skills**           | Git, GitHub, Jira , Clickup                                                    |
+
+---
+
+### 📚 **Currently Exploring**
+- ML model pipeline automation with n8n
+- LLM agents for business integration
+- Next-gen workflow orchestration patterns
+
+---
+
+### 📬 **Let's Connect**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yadavamit10x" target="_blank">
@@ -76,50 +87,7 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/yadavamit10x" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Yadav LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/amit_yadvv__" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amit Yadav Instagram" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">🧩 Languages and Tools:</h3>
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/es-es/training/achievements/get-started-power-bi.svg" alt="Power BI" width="40" height="40">
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" alt="Tableau" width="40" height="40">
-  </a>
-  <a href="https://products.office.com/en/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1024px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="40" height="40">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40">
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40">
-  </a>
-</p>
-
----
-
 ![Amityadav10x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amityadav10x&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Amityadav10x&theme=highcontrast" alt="GitHub Streak" />
 </a>
-
