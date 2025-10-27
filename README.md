@@ -63,7 +63,7 @@
 <h3 align="left">📬 Let's Connect:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/amityadav10x" target="_blank">
+  <a href="https://www.linkedin.com/in/yadavamit10x" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:amityadav10x@gmail.com">
@@ -78,10 +78,10 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/amityadav10x" target="_blank">
+  <a href="https://www.linkedin.com/in/yadavamit10x" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Yadav LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/yaduvanshi_amit" target="_blank">
+  <a href="https://www.instagram.com/amit_yadvv__" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amit Yadav Instagram" height="30" width="40" />
   </a>
 </p>
