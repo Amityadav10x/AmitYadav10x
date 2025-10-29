@@ -19,27 +19,24 @@
 ### 🏁 **Project Experience**
 - Led the design and deployment of architectures for web apps, workflow automation, and app/system integrations
 - Built and maintained technical documentation that drives efficient project execution and reduces rework for developers
-- Developed frontend and full-stack solutions in the past (Replit, Cursor)
+- Developed frontend and full-stack solutions using no code tools (Replit, Cursor)
 - Automated cross-platform business processes and API-based workflows with n8n
 
 ---
 
 ### 🌱 **Currently Upskilling**
-- **Machine Learning Integration:** Incorporating ML models into automation workflows and decision engines
-- **LLMs & GenAI:** Exploring GPT, Claude, and open-source LLMs for smart workflow automation and prompt engineering
-- **Advanced Workflow Orchestration:** Building modular, complex no/low-code automations with n8n and custom API integrations
-- **Developer Documentation:** Crafting best-in-class architecture diagrams and technical guides for fast team onboarding
-
+- **Machine Learning Integration:** Advanced ML techniques including ensemble methods, hyperparameter tuning, and model evaluation for predictive analytics
+- **Deep Learning & NLP:** Exploring neural networks, computer vision, and natural language processing for advanced data insights
+- **LLMs & Generative AI:**Working with GPT, Claude, and open-source models for text generation, embeddings, and AI-driven analytics
 ---
 
 ### 👀 **Focus Areas**
-System & Solution Architecture |
-Workflow Design & Orchestration |
-n8n Automation Engineering |
-API & App Integration |
-Machine Learning in Automation |
-LLM-powered Automation |
-Technical Documentation
+Machine Learning Engineering |
+Deep Learning & Computer Vision |
+Natural Language Processing (NLP) |
+Generative AI & LLM Fine-tuning |
+Feature Engineering & Model Optimization |
+Data Pipelines & Cloud ML |
 
 ---
 
@@ -60,14 +57,14 @@ Browse my projects and works here
 | **LLMs & AI APIs**         | OpenAI API, Anthropic API, Prompt Engineering, LangChain       |
 | **Docs & Visualization**   | Markdown, architecture diagrams, Matplotlib, Seaborn           |
 | **Databases/Storage**      | SQL, BigQuery, Snowflake, Airtable                             |
-| **Other Skills**           | Git, GitHub, Jira , Clickup                                                    |
+| **Other Skills**           | Git, GitHub, Jira , Clickup                                    |
 
 ---
 
 ### 📚 **Currently Exploring**
-- ML model pipeline automation with n8n
-- LLM agents for business integration
-- Next-gen workflow orchestration patterns
+- Advanced ML model development and optimization techniques
+- Large Language Models (LLMs) and Generative AI applications
+- Agentic AI systems and multi-agent architectures
 
 ---
 
