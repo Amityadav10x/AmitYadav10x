@@ -44,7 +44,7 @@ Technical Documentation
 ---
 
 ### 👨‍💻 **Featured Work**
-Browse my architecture docs, workflow solutions, and ML-enabled projects at my  
+Browse my projects and works here  
 [Portfolio](https://amityadav10x.github.io/Portfolio_Website/index.html)
 
 ---
