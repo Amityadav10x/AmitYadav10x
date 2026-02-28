@@ -110,14 +110,6 @@ KPI-driven Power BI dashboards for strategic decision-making.
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amityadav10x/Amityadav10x/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🧠 Engineering Philosophy
 
 - Build systems, not scripts  
