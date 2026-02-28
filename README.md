@@ -1,14 +1,16 @@
 <!-- ===================== AI THEMED BANNER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Amit%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer%20|%20ML%20Systems%20Builder&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=240&section=header&text=Amit%20Yadav&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Engineer%20|%20LLM%20Systems%20Builder&descAlignY=55&descAlign=50"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Applied+AI+Engineer;LLM+Systems+Builder;Machine+Learning+Pipeline+Developer;Automation+Architect;Backend+AI+System+Designer" />
 </p>
 
 <h3 align="center">🧠 Applied AI Engineer | Data Analyst | AI Automation Architect</h3>
 
 ---
-
-<!-- ===================== CURRENTLY BUILDING ===================== -->
 
 ## 🚧 Currently Building (Live Focus)
 
@@ -19,8 +21,6 @@
 - 🌐 Backend AI systems using Django & REST APIs
 
 ---
-
-<!-- ===================== PROFESSIONAL EXPERIENCE ===================== -->
 
 ## 🏢 Professional Experience
 
@@ -44,8 +44,6 @@
 
 ---
 
-<!-- ===================== WHAT I BUILD ===================== -->
-
 ## 🚀 What I Build
 
 - 🧠 End-to-end ML pipelines  
@@ -55,8 +53,6 @@
 - 🌐 Backend AI applications  
 
 ---
-
-<!-- ===================== SKILLS TABLE ===================== -->
 
 ## 🛠️ Tools & Technologies
 
@@ -75,8 +71,6 @@
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
 ## 🔥 Featured Work
 
 ### 🧠 AI-Powered CareerOS
@@ -91,8 +85,48 @@ Production-grade automation system integrating multiple APIs.
 ### 📊 Business Intelligence Dashboard
 KPI-driven Power BI dashboards for strategic decision-making.
 
+---
 
-<!-- ===================== CAREER VISION ===================== -->
+## 📌 Impact Highlights
+
+- Designed 20+ automation workflows  
+- Built multiple ML pipelines end-to-end  
+- Integrated LLM APIs into real-world systems  
+- Created scalable backend architecture patterns  
+- Delivered KPI dashboards used for decision-making  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amityadav10x&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amityadav10x&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Amityadav10x&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amityadav10x/Amityadav10x/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 Engineering Philosophy
+
+- Build systems, not scripts  
+- Design for scalability, not shortcuts  
+- Optimize for measurable impact  
+- Combine data intelligence with automation  
+- Ship production-ready AI solutions  
+
+---
 
 ## 🎯 Career Vision
 
@@ -105,17 +139,11 @@ To design and build scalable AI systems combining:
 
 ## 📬 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/yadavamit10x" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:amityadav10x@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  ![Amityadav10x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amityadav10x&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Amityadav10x&theme=highcontrast" alt="GitHub Streak" />
-</a>
 </p>
