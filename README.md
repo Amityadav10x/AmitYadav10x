@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amityadav10x&label=Profile+Views&color=00F7FF&style=for-the-badge" />
+</p>
+
 <!-- ===================== AI THEMED BANNER ===================== -->
 
 <p align="center">
@@ -51,6 +55,20 @@
 - 🔗 AI-powered automation architectures  
 - 📊 Data-driven decision systems  
 - 🌐 Backend AI applications  
+
+---
+
+## ⚡ AI Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge"/>
+</p>
 
 ---
 
