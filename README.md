@@ -1,90 +1,121 @@
-<h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="center">🚀 AI Automation Engineer | System Architecture • n8n Automation • ML Integration</h3>
+<!-- ===================== AI THEMED BANNER ===================== -->
 
-<img align="right" alt="automation engineer working" width="400" src="https://user-images.githubusercontent.com/98509698/205488812-96c222ed-cbb2-4c1d-b6c2-6bdc1a42e3da.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amityadav10x&label=Profile%20views&color=0e75b6&style=flat" alt="amityadav10x" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Amit%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer%20|%20ML%20Systems%20Builder&descAlignY=55&descAlign=50"/>
 </p>
 
----
-
-### 🔵 **Current Role**
-- Architecting and documenting robust automation workflows, technical flowcharts, and project blueprints at Electric Octopus
-- Designing integration logic and system architecture for web and automation projects
-- Building production-ready n8n automation pipelines and orchestrations, enabling streamlined development for teams
+<h3 align="center">🧠 Applied AI Engineer | Data Analyst | AI Automation Architect</h3>
 
 ---
 
-### 🏁 **Project Experience**
-- Led the design and deployment of architectures for web apps, workflow automation, and app/system integrations
-- Built and maintained technical documentation that drives efficient project execution and reduces rework for developers
-- Developed frontend and full-stack solutions using no code tools (Replit, Cursor)
-- Automated cross-platform business processes and API-based workflows with n8n
+<!-- ===================== CURRENTLY BUILDING ===================== -->
+
+## 🚧 Currently Building (Live Focus)
+
+- 🧠 Production-ready LLM workflows using **LangChain**
+- 🔗 Retrieval-Augmented Generation (RAG) systems
+- 🤖 AI automation pipelines with **n8n + LLM APIs**
+- 📊 ML pipelines with structured evaluation & tuning
+- 🌐 Backend AI systems using Django & REST APIs
 
 ---
 
-### 🌱 **Currently Upskilling**
-- **Machine Learning Integration:** Advanced ML techniques including ensemble methods, hyperparameter tuning, and model evaluation for predictive analytics
-- **Deep Learning & NLP:** Exploring neural networks, computer vision, and natural language processing for advanced data insights
-- **LLMs & Generative AI:**Working with GPT, Claude, and open-source models for text generation, embeddings, and AI-driven analytics
----
+<!-- ===================== PROFESSIONAL EXPERIENCE ===================== -->
 
-### 👀 **Focus Areas**
-Machine Learning Engineering |
-Deep Learning & Computer Vision |
-Natural Language Processing (NLP) |
-Generative AI & LLM Fine-tuning |
-Feature Engineering & Model Optimization |
-Data Pipelines & Cloud ML |
+## 🏢 Professional Experience
+
+### 🔵 Data Analyst (Current Role)
+
+- Analyzing structured & unstructured datasets for business insights  
+- Building KPI dashboards using Power BI  
+- Writing optimized SQL queries for analytics  
+- Performing EDA & data transformation  
+- Supporting data-driven decision-making  
 
 ---
 
-### 👨‍💻 **Featured Work**
-Browse my projects and works here  
-[Portfolio](https://amityadav10x.github.io/Portfolio_Website/index.html)
+### 🤖 AI Automation Engineer — Electric Octopus (Previous Role)
+
+- Architected production-grade automation workflows using n8n  
+- Designed API-based system integrations & backend logic  
+- Integrated AI APIs into business automation systems  
+- Reduced manual operational processes through workflow orchestration  
+- Created detailed system documentation & architecture diagrams  
 
 ---
 
-### 🛠️ **Tools & Technologies**
+<!-- ===================== WHAT I BUILD ===================== -->
 
-| **Category**               | **Details**                                                    |
-|----------------------------|----------------------------------------------------------------|
-| **Core Profile**           | AI Automation Engineer, System Architect, n8n Workflow Expert  |
-| **Programming**            | Python, SQL, JavaScript                                        |
-| **Automation & Orchestration** | n8n, API Integration, ETL Workflows, Webhooks              |
-| **ML & Data Science**      | scikit-learn, Pandas, NumPy, Power BI, Jupyter, ML Pipelines   |
-| **LLMs & AI APIs**         | OpenAI API, Anthropic API, Prompt Engineering, LangChain       |
-| **Docs & Visualization**   | Markdown, architecture diagrams, Matplotlib, Seaborn           |
-| **Databases/Storage**      | SQL, BigQuery, Snowflake, Airtable                             |
-| **Other Skills**           | Git, GitHub, Jira , Clickup                                    |
+## 🚀 What I Build
+
+- 🧠 End-to-end ML pipelines  
+- 🤖 LLM-integrated AI systems  
+- 🔗 AI-powered automation architectures  
+- 📊 Data-driven decision systems  
+- 🌐 Backend AI applications  
 
 ---
 
-### 📚 **Currently Exploring**
-- Advanced ML model development and optimization techniques
-- Large Language Models (LLMs) and Generative AI applications
-- Agentic AI systems and multi-agent architectures
+<!-- ===================== SKILLS TABLE ===================== -->
+
+## 🛠️ Tools & Technologies
+
+| **Category** | **Details** |
+|--------------|-------------|
+| **Core Profile** | Applied AI Engineer, Data Analyst, Automation Architect |
+| **Programming** | Python, SQL, JavaScript |
+| **Machine Learning** | scikit-learn, ML Pipelines, Feature Engineering, Model Evaluation |
+| **LLM & AI Systems** | OpenAI API, Anthropic API, LangChain, RAG, Embeddings, Prompt Engineering |
+| **Automation** | n8n, API Integration, ETL Workflows, Webhooks |
+| **Backend** | Django, REST APIs |
+| **Data & Analytics** | Power BI, Pandas, NumPy, EDA |
+| **Databases** | SQL, BigQuery, Snowflake |
+| **Architecture & Docs** | System Design, Technical Flow Diagrams, Markdown |
+| **Tools** | Git, GitHub, Jira, ClickUp |
 
 ---
 
-### 📬 **Let's Connect**
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+## 🔥 Featured Work
+
+### 🧠 AI-Powered CareerOS
+LLM-integrated workflow system using LangChain + backend orchestration.
+
+### 📈 Predictive ML Pipeline
+Complete ML lifecycle: preprocessing → feature engineering → model evaluation.
+
+### 🤖 n8n Automation Engine
+Production-grade automation system integrating multiple APIs.
+
+### 📊 Business Intelligence Dashboard
+KPI-driven Power BI dashboards for strategic decision-making.
+
+
+<!-- ===================== CAREER VISION ===================== -->
+
+## 🎯 Career Vision
+
+To design and build scalable AI systems combining:
+
+**Data Intelligence + LLM Engineering + Automation**  
+→ into real-world production-grade applications.
+
+---
+
+## 📬 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yadavamit10x" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:amityadav10x@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://amityadav10x.github.io/Portfolio_Website/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-![Amityadav10x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amityadav10x&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  
+  ![Amityadav10x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amityadav10x&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Amityadav10x&theme=highcontrast" alt="GitHub Streak" />
 </a>
+</p>
