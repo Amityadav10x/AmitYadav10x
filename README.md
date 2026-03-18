@@ -16,7 +16,7 @@
 
 ---
 
-## 🚧 Currently Building (Live Focus)
+## 🚧 Currently Building Expertising
 
 - 🧠 Production-ready LLM workflows using **LangChain**
 - 🔗 Retrieval-Augmented Generation (RAG) systems
